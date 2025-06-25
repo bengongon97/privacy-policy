@@ -1,2 +1,2 @@
 # privacy-policy
-Private policy of RecipeyAI App.
+Privacy policy of the RecipeyAI App.
